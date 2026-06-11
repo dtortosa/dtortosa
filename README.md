@@ -4,8 +4,8 @@ I bridge the gap between rigorous scientific validation and production-grade AI 
 
 ### 🛠️ Tech Stack & Core Competencies
 
-- **AI Engineering:** LLM Applications, Production RAG Systems, AI Agents, Framework-Free Execution Loops, Prompt Engineering, Structured Outputs (Pydantic), Vector Databases (pgvector)
-- **Machine Learning & Evaluation:** Deep Neural Networks, Tree-Based Ensembles (XGBoost, Random Forest), Bayesian Inference, Nested Cross-Validation, Hyperparameter Optimization, Explainable AI (XAI)
+- **AI Engineering:** LLM Applications, Production RAG Systems, AI Agents, LangChain, Framework-Free Execution Loops, Prompt Engineering, Structured Outputs (Pydantic), Vector Databases (pgvector, FAISS), LLM evals
+- **Machine Learning & Evaluation:** Deep Neural Networks, Tree-Based Ensembles (XGBoost, Random Forest), Ensemble Stacking, Bayesian Inference, Nested Cross-Validation, Hyperparameter Optimization, Explainable AI (XAI)
 - **Infrastructure & Backend:** FastAPI, PostgreSQL, Celery, Azure, Docker, Cloud Deployments, Git/GitHub Actions
 - **Scientific Computing:** Python, PySpark, R, Bash, Parallel and Distributed Processing
 
