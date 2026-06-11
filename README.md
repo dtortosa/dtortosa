@@ -1,4 +1,4 @@
-# Diego Salazar Tortosa | AI/ML Scientist & Engineer
+# Diego Salazar Tortosa | AI Engineer
 
 I bridge the gap between rigorous scientific validation and production-grade AI infrastructure. With over a decade of experience handling complex datasets and building machine learning systems, I design robust backend architectures and high-scale intelligence workflows.
 
