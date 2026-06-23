@@ -1,6 +1,6 @@
 # Diego Salazar Tortosa | AI Engineer
 
-I bridge the gap between rigorous scientific validation and production-grade AI infrastructure. With over a decade of experience handling complex datasets and building machine learning systems, I design robust backend architectures and high-scale intelligence workflows.
+I bring scientific rigor to production AI systems. With over a decade of experience handling complex datasets and building machine learning models, I design backend architectures and AI workflows built to run at scale.
 
 ### 🛠️ Tech Stack & Core Competencies
 
@@ -13,5 +13,5 @@ I bridge the gap between rigorous scientific validation and production-grade AI 
 
 ### 📈 Featured Architectures
 
-- **Production RAG & Automation Engines:** Building event-driven, containerized microservices optimized for unstructured document processing.
-- **Distributed Scientific Pipelines:** Designing parallel architectures using PySpark and multiprocessing to manipulate hundreds of gigabytes of high-dimensional data.
+- **Production RAG & Automation Engines:** Event-driven, containerized microservices for processing unstructured documents.
+- **Distributed Scientific Pipelines:** Parallel architectures built with PySpark and multiprocessing to handle hundreds of gigabytes of high-dimensional data.
