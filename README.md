@@ -14,4 +14,4 @@ I bring scientific rigor to production AI systems. With over a decade of experie
 ### 📈 Featured Architectures
 
 - **Production RAG & Automation Engines:** Event-driven, containerized microservices for processing unstructured documents.
-- **Distributed Scientific Pipelines:** Parallel architectures built with PySpark and multiprocessing to handle hundreds of gigabytes of high-dimensional data.
+- **Distributed Scientific Pipelines:** Parallel and distributed architectures built with PySpark and multiprocessing to handle hundreds of gigabytes of high-dimensional data.
