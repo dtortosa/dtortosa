@@ -1,17 +1,18 @@
-# Diego Salazar Tortosa | AI/ML Scientist & Engineer
+# Diego Salazar Tortosa | Data & ML Scientist
 
-I bring scientific rigor to production AI systems. With 11+ years of experience handling complex datasets and building machine learning models, I design backend architectures and AI workflows built to run at scale.
+I build machine learning models and the data pipelines that feed them. PhD in Bioinformatics and 11+ years as a Data & ML Scientist across Europe and the US, working on large, high-dimensional datasets in genomics, climate modeling and clinical diagnostics.
 
-### 🛠️ Tech Stack & Core Competencies
+### 🛠️ Tech Stack
 
-- **AI Engineering:** LLM Applications, Production RAG Systems, AI Agents, LangChain, Framework-Free Execution Loops, Prompt Engineering, Structured Outputs (Pydantic), Vector Databases (pgvector, FAISS), LLM evals
-- **Machine Learning & Evaluation:** Deep Neural Networks, Tree-Based Ensembles (XGBoost, Random Forest), Ensemble Stacking, Bayesian Inference, Nested Cross-Validation, Hyperparameter Optimization, Explainable AI (XAI)
-- **Infrastructure & Backend:** FastAPI, PostgreSQL, Celery, Azure, Docker, Cloud Deployments, Workflow and Cluster Managers (Nextflow and Slurm), Git/GitHub Actions
-- **Scientific Computing:** Python, PySpark, Numpy, Pandas, R, Bash, Parallel and Distributed Processing
+- **Machine Learning & Statistics:** Tabular foundation models (pretrained transformers, e.g., TabPFN), Deep Neural Networks (multilayer perceptrons, Keras), Tree-Based Ensembles (XGBoost, Random Forest), GLMs/GAMs, Elastic Net, Bayesian Statistics, Nested Cross-Validation, Bayesian Optimization, Explainable AI
+- **Scientific Computing:** Python, R, NumPy, Pandas, PySpark, Bash, AWK, Parallel and Distributed Processing
+- **Infrastructure:** Slurm, Nextflow, Docker & Apptainer, Azure, PostgreSQL, Git/GitHub Actions
+- **LLM Applications:** RAG, FastAPI, Celery, pgvector, PydanticAI, LangChain, LangGraph, Langfuse, LLM evals
 
 ---
 
-### 📈 Featured Architectures
+### 📈 Featured Projects
 
-- **Production Agent Workflows:** Event-driven, containerized microservices for processing unstructured documents.
-- **Distributed Scientific Pipelines:** Parallel and distributed architectures built with PySpark and multiprocessing to handle hundreds of gigabytes of high-dimensional data.
+- **Human genome ML framework:** nested cross-validation and Bayesian optimization across multiple model classes on ~180 GB of compressed genetic data (~1 billion rows; PySpark, multiprocessing, Slurm); explainable AI to interpret deep neural networks.
+- **Global pine distributions under climate change:** ensemble species distribution models with 100k+ GCM × RCP projections, methodological innovations improving the state of the art, validated on spatially independent data. Published in *Diversity and Distributions* (2024).
+- **Email triage LLM workflow:** event-driven pipeline with deterministic routing, RAG over pgvector, LLM-as-judge evaluation and Langfuse tracing, deployed with Docker on Hetzner.
