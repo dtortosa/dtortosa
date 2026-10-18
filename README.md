@@ -1,6 +1,6 @@
 # Diego Salazar Tortosa PhD | Data & ML Scientist
 
-I build machine learning models and the data pipelines that feed them. PhD in Bioinformatics and 11+ years as a Data & ML Scientist across Europe and the US, working on large, high-dimensional datasets in genomics, climate modeling and clinical diagnostics.
+I build machine learning models and the data pipelines that feed them. PhD in Bioinformatics and 11+ years as a Data & ML Scientist across Europe and the US. Extensive experience on large, high-dimensional datasets in multiple fields. I help teams turn messy data into validated insights.
 
 ### 🛠️ Tech Stack
 
