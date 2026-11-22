@@ -23,5 +23,5 @@ I build machine learning models and the data pipelines that feed them. PhD in Bi
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=dtortosa&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtortosa&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtortosa&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
