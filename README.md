@@ -16,3 +16,12 @@ I build machine learning models and the data pipelines that feed them. PhD in Bi
 - **Human genome ML framework:** nested cross-validation and Bayesian optimization across multiple model classes on ~180 GB of compressed genetic data (~1 billion rows; PySpark, multiprocessing, Slurm); explainable AI to interpret deep neural networks.
 - **Global pine distributions under climate change:** ensemble species distribution models with 100k+ GCM × RCP projections, methodological innovations improving the state of the art, validated on spatially independent data. Published in *Diversity and Distributions* (2024).
 - **Email triage LLM workflow:** event-driven pipeline with deterministic routing, RAG over pgvector, LLM-as-judge evaluation and Langfuse tracing, deployed with Docker on Hetzner.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=dtortosa&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtortosa&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
+</p>
